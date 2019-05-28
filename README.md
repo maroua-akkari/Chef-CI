@@ -1,1 +1,1 @@
-# Chef-CI
+# Chef CI
